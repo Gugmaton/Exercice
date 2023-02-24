@@ -1,7 +1,7 @@
 # Exercice d'accessibilité des contenus
 
 ## Équipe
-- Prénom nom
+- Ugo Nanini
 - Prénom nom
 
 ## Objectifs
